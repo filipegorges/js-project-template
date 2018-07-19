@@ -1,6 +1,3 @@
-# js-course
-Udemy course: https://www.udemy.com/js-com-tdd-na-pratica/
-
 # Project Title
 
 One Paragraph of project description goes here
